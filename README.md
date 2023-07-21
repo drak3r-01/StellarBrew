@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/drak3r-01/StellarBrew.git">
     <img src="picture/Logo.png" alt="Logo" width="640" height="320">
   </a>
 </div>
